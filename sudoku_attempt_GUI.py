@@ -3,6 +3,7 @@
 #Members - Aditi Ahuja, Ishitha Agarwal, Bhargav SNV
 #Title - Sudoku Game with GUI
 #Description - This code develops a GUI for a sudoku, with a Start Screen, Game Window and Instructions Screen, all referenced from the Start Screen
+#This was a project implemented for our first semester.
 
 #Concepts Used - 
 #1.For the grid:
